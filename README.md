@@ -1,5 +1,22 @@
 <h1 align="center">Olá! 👋, eu sou Mael Fernandes</h1>
 <h3 align="center">Sou um desenvolvedor Full Stack com uma eterna 'fome' por conhecimentos.</h3>
+<h2 dir="auto"><a id="user-content-bust_in_silhouette-sobre-mim" class="anchor" aria-hidden="true" href="#bust_in_silhouette-sobre-mim"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a><g-emoji class="g-emoji" alias="bust_in_silhouette" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f464.png"><img class="emoji" alt="bust_in_silhouette" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f464.png"></g-emoji> Sobre mim</h2>
+
+<ul dir="auto">
+<li>
+<p dir="auto"><g-emoji class="g-emoji" alias="seedling" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f331.png"><img class="emoji" alt="seedling" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f331.png"></g-emoji> Atualmente estou estudando <strong>SOLID</strong></p>
+</li>
+<li>
+<p dir="auto"><g-emoji class="g-emoji" alias="speech_balloon" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ac.png"><img class="emoji" alt="speech_balloon" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ac.png"></g-emoji> Me pergunte sobre <strong>React, Javascript, Nodejs</strong></p>
+</li>
+<li>
+<p dir="auto"><g-emoji class="g-emoji" alias="mailbox" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4eb.png"><img class="emoji" alt="mailbox" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f4eb.png"></g-emoji> Entre em contato comigo através do email <strong><a href="mailto:contatodevmael@gmail.com">contatodevmael@gmail.com</a></strong></p>
+</li>
+<li>
+<p dir="auto"><g-emoji class="g-emoji" alias="page_facing_up" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c4.png"><img class="emoji" alt="page_facing_up" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c4.png"></g-emoji> Veja as minhas experiências em <a href="https://www.linkedin.com/in/maelsfernandes/" rel="nofollow">https://www.linkedin.com/in/maelsfernandes/</a></p>
+</li>
+</ul>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
