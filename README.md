@@ -4,10 +4,10 @@
 
 <ul dir="auto">
 <li>
-<p dir="auto"><g-emoji class="g-emoji" alias="seedling" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f331.png"><img class="emoji" alt="seedling" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f331.png"></g-emoji> Atualmente estou estudando <strong>Segurança Cibernética</strong></p>
+<p dir="auto"><g-emoji class="g-emoji" alias="seedling" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f331.png"><img class="emoji" alt="seedling" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f331.png"></g-emoji> Atualmente estou estudando <strong>PHP</strong></p>
 </li>
 <li>
-<p dir="auto"><g-emoji class="g-emoji" alias="speech_balloon" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ac.png"><img class="emoji" alt="speech_balloon" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ac.png"></g-emoji> Me pergunte sobre <strong>React, Javascript, Python</strong></p>
+<p dir="auto"><g-emoji class="g-emoji" alias="speech_balloon" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ac.png"><img class="emoji" alt="speech_balloon" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ac.png"></g-emoji> Me pergunte sobre <strong>Javascript, Python, PHP, JAVA</strong></p>
 </li>
 <li>
 <p dir="auto"><g-emoji class="g-emoji" alias="mailbox" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4eb.png"><img class="emoji" alt="mailbox" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f4eb.png"></g-emoji> Entre em contato comigo através do email <strong><a href="mailto:contatodevmael@gmail.com">contatodevmael@gmail.com</a></strong></p>
